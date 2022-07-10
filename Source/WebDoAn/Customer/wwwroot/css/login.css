@@ -1,0 +1,112 @@
+.font {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: auto;
+    background-color: #C4C4C4;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#chaomung {
+    font-size: 30px;
+    color: #FF0000;
+    text-align: center;
+}
+
+#toida {
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#fb {
+    height: 50px;
+    width: 360px;
+    font-size: 20px;
+    background-color: #2A82D2;
+    color: #ffffff;
+}
+#gach {
+    border-bottom: 2px solid white;
+    width: 47%;
+}
+#sdt {
+    width: 360px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #2DD22A;
+    color: #ffffff;
+}
+
+.d {
+    margin-left: auto;
+    margin-right: auto;
+    width: 410px;
+    height: auto;
+    background-color: #C4C4C4;
+}
+
+#logface {
+    height: 50px;
+    width: 410px;
+    display: flex;
+}
+
+#iconfb {
+    width: 50px;
+    height: 50px;
+    background-color: #24649F;
+}
+
+#iconsdt {
+    width: 50px;
+    height: 50px;
+    background-color: #589B2F;
+}
+
+#iconlogin {
+    width: 50px;
+    height: 46px;
+    background-color: #ffffff;
+}
+
+#iconpass {
+    width: 50px;
+    height: 46px;
+    background-color: #ffffff;
+}
+
+#form {
+    width: 360px;
+    height: 46px;
+    background-color: #ffffff;
+    font-size: 20px;
+    border: solid 1px #ffffff;
+}
+
+#dangnhap {
+    height: 50px;
+    width: 410px;
+    font-size: 20px;
+    background-color: #369271;
+    color: #ffffff;
+}
+
+    #dangnhap:hover {
+        cursor: all-scroll;
+    }
+
+#dangky {
+    height: 50px;
+    width: 410px;
+    font-size: 20px;
+    background-color: #369271;
+    color: #ffffff;
+}
+
+    #dangky:hover {
+        cursor: all-scroll;
+    }

@@ -1,0 +1,207 @@
+D:\WebDoAn\Customer\bin\Debug\net5.0\appsettings.Development.json
+D:\WebDoAn\Customer\bin\Debug\net5.0\appsettings.json
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.exe
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.deps.json
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.json
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.dev.json
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.dll
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.pdb
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.dll
+D:\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.pdb
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.AssemblyReference.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfoInputs.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfo.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CoreCompileInputs.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.MvcApplicationPartsAssemblyInfo.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\scopedcss\bundle\Customer.styles.css
+D:\WebDoAn\Customer\obj\Debug\net5.0\staticwebassets\Customer.StaticWebAssets.Manifest.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.input.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.output.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorCoreGenerate.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\layout.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cs
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.Views.pdb
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.dll
+D:\WebDoAn\Customer\obj\Debug\net5.0\refint\Customer.dll
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.pdb
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
+D:\WebDoAn\Customer\obj\Debug\net5.0\ref\Customer.dll
+D:\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.exe
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.dll
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.dll
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\scopedcss\bundle\Customer.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\staticwebassets\Customer.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.input.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.output.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorCoreGenerate.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\layout.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.Views.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.dll
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\refint\Customer.dll
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\ref\Customer.dll
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\DATA\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\appsettings.json
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.exe
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.deps.json
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.json
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.dev.json
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.dll
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.pdb
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.dll
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.pdb
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.AssemblyReference.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfoInputs.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfo.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\scopedcss\bundle\Customer.styles.css
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\staticwebassets\Customer.StaticWebAssets.Manifest.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.input.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.output.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorCoreGenerate.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\layout.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cs
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.Views.pdb
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.dll
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\refint\Customer.dll
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.pdb
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\ref\Customer.dll
+C:\Users\Ho Hien\Downloads\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CopyComplete
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.AssemblyReference.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfoInputs.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.AssemblyInfo.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CoreCompileInputs.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.MvcApplicationPartsAssemblyInfo.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorAssemblyInfo.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\scopedcss\bundle\Customer.styles.css
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\staticwebassets\Customer.StaticWebAssets.Manifest.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.input.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.TagHelpers.output.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorCoreGenerate.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\layout.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.RazorTargetAssemblyInfo.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\refint\Customer.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\appsettings.Development.json
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\appsettings.json
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.exe
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.deps.json
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.json
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.runtimeconfig.dev.json
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Customer.Views.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.Views.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.genruntimeconfig.cache
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\ref\Customer.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Customer.csproj.CopyComplete
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Humanizer.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Shared\_MenuPartialView.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Review\Index.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Cart\ShoppingCart.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Detail\Details.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Detail\Index.cshtml.g.cs
+D:\N3CN22\Web\PTWeb\Project\WebDoAn\Customer\obj\Debug\net5.0\Razor\Views\Cart\Bill.cshtml.g.cs

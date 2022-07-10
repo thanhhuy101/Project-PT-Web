@@ -1,0 +1,32 @@
+.menu {
+    width: 350px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.menu:hover {
+    box-shadow: 5px 5px 10px #99FFFF;
+}
+
+#mua {
+    font-size: 20px;
+    width: 150px;
+    background-color: #99FFFF;
+    border-radius: 17px;
+    cursor: all-scroll;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.team {
+    width: 350px;
+    height: 250px;
+}
+
+p {
+    padding: 10px;
+}
